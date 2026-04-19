@@ -1,6 +1,6 @@
 package main
 
-import "kbot/cmd"
+import "github.com/Superenko/TeleBotGo/cmd"
 
 func main() {
 	cmd.Execute()

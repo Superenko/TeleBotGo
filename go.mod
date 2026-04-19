@@ -1,4 +1,4 @@
-module kbot
+module github.com/Superenko/TeleBotGo
 
 go 1.21
 
